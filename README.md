@@ -14,7 +14,7 @@ La clase LecheDeslactosada no puede reemplazar a la clase LecheEntera en su tota
 No hay interfaces que analizar.
 
 ### Dependancy inversion:
-
+No hay problema porque las clases LecheDeslactosada y LecheDescremada dependen unicamente de la clase abstracta LecheEntera.
 
 ## Análisis del código:
 
