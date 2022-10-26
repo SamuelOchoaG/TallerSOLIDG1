@@ -21,8 +21,4 @@ public abstract class Aderezo {
         return getNombre().toUpperCase();
     
     }
-    
-    public abstract void anadirAderezo(Postre postre,Aderezo aderezo);
-    public abstract void quitarAderezo(Postre postre,Aderezo aderezo);
-    
 }
