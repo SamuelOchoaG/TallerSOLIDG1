@@ -28,7 +28,7 @@ public class Postre {
         helado.getAderezos().remove(aderezo);
     }
     
-   
+    
 
     public ArrayList<Aderezo> getAderezos() {
         return aderezos;
